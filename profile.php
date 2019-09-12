@@ -40,9 +40,10 @@ require_once 'session.php';
                         <?= $usuario ?>
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                        <a class="dropdown-item" href="#">Configurações</a>
+                        <a class="dropdown-item" href="slider.php">fotos</a>
+                        <a class="dropdown-item" href="#">Config</a>
                         <a class="dropdown-item" href="sair.php">Sair</a>
-                        <a class="dropdown-item" href="#">Link 3</a>
+
                     </div>
                 </li>
             </ul>
